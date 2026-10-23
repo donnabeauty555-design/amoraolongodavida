@@ -1,0 +1,7 @@
+SITE O AMOR AO LONGO DA VIDA — NEUSA
+
+1. Extraia todos os ficheiros desta pasta ZIP.
+2. Mantenha a pasta assets junto do ficheiro index.html.
+3. Abra index.html para ver o site.
+4. As fotografias dos cartões usam ligações à internet; a imagem principal está incluída no ZIP. Para ver todas as fotografias é necessário estar ligado à internet.
+5. Para publicar, carregue a pasta do site num serviço de alojamento de sites estáticos.
